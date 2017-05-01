@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BoutTime
 //
-//  Created by Christopher Bonuel on 7/2/16.
-//  Copyright © 2016 Christopher Bonuel. All rights reserved.
+//  Created by WIlliam Vivas on 4/30/17.
+//  Copyright © 2017 William Vivas. All rights reserved.
 //
 
 import UIKit

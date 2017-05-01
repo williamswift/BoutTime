@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  BoutTime
 //
-//  Created by William Vivas on 4/28/17.
+//  Created by William Vivas on 4/30/17.
 //  Copyright © 2017 William Vivas. All rights reserved.
 //
 
